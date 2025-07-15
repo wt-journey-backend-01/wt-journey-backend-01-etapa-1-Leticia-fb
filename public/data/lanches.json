@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nome": "DevBurger Clássico",
+    "ingredientes": "Pão brioche, carne 150g, cheddar, alface, tomate, molho especial"
+  },
+  {
+    "id": 2,
+    "nome": "Veggie Commit",
+    "ingredientes": "Pão integral, burger de grão de bico, rúcula, tomate seco"
+  },
+  {
+    "id": 3,
+    "nome": "Stack Overflow Bacon",
+    "ingredientes": "Pão australiano, carne 180g, cheddar, bacon, cebola caramelizada"
+  }
+]
